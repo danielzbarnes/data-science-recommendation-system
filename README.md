@@ -21,6 +21,7 @@ Files:
 - `top_10.p`
 - `top_20.p`
 
+-----------------------------
 ### Project Overview
 
 This project explores and analyze the interactions that users have with articles on the IBM Watson Studio platform and make recommendations to them about new articles you think they will like.
